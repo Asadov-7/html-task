@@ -1,0 +1,102 @@
+
+.xiaomi{
+    border: solid;
+    border-color: orange;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 40px;
+}
+.rn11{
+    border: solid;
+    border-color: blue;
+    border-radius: 45px;
+    display: inline-block;
+}
+.redminote11{
+    display: inline-block;
+}
+.pocom5{
+    width: 960px;
+    height: 650px;
+    border: solid;
+    border-radius: 45px;
+    border-color: yellow;
+}
+.POCOM5{
+    display: inline-block;
+}
+.redmi10c{
+    width: 960px;
+    height: 650px;
+    border: solid;
+    border-radius: 45px;
+    border-color: white;
+    display: inline-block;
+}
+.Redmi10c{
+    display: inline-block;
+    color: white;
+}
+.A9{
+    width: 960px;
+    height: 650px;
+    border:solid;
+    border-radius: 45px;
+    border-color: white;
+}
+.R9A{
+    display: inline-block;
+    color: white;
+}
+.rt12p{
+    width: 960px;
+    height: 650px;
+    border: solid;
+    border-radius: 45px;
+    border-color: grey;
+    display: inline-block;
+}
+.REDMI12TPRO{
+    display: inline-block;
+    color: white;
+}
+.redmi11video{
+    border: solid;
+    border-radius: 50px;
+    border-color: aliceblue;
+    display: inline-block;
+}
+.r9a{
+
+    border: solid;
+    border-radius: 50px;
+    border-color: darkblue;
+}
+.r10c{
+    border: solid;
+    border-radius: 50px;
+    border-color: aliceblue;
+    display: inline-block;
+}
+.r12tp{
+    border: solid;
+    border-radius: 50px;
+    border-color: aliceblue;
+display: inline-block;
+}
+.poco5video{
+    border: solid;
+    border-radius: 50px;
+    border-color: aliceblue;
+}
+.end{
+    display: inline-block;
+    color: orange;
+    text-align: center;
+}
+.insta{
+    display: inline-block;
+}
+.tel{
+    display: inline-block;
+}
